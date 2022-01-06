@@ -6,8 +6,8 @@ The features in this programs are as following:
 1. Insertion of a new record
 2. Update of a data field in a record
 3. Deletion of a data field in a record
-4. Deletion of a record <br>
-5.Displaying on screen the table of records showing <br>
+4. Deletion of a record 
+5. Displaying on screen the table of records showing <br>
  <ul> <li>The data fields selected by the user (the user can choose to display every field) and the records which fulfils all the search conditions specified by the user. </li>
   <li> A search condition is applicable to only one data field. </li> </ul> 
   <br>
