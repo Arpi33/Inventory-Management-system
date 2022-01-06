@@ -1,7 +1,7 @@
 # Inventory-Management-system
 The application supports a table of records. Define a class called
 StoreItem, the instance of which is a record. The program should consist of three
-files, which are Inventory.cpp, StoreItem.h and StoreItem.cpp
+files, which are Inventory.cpp, StoreItem.h and StoreItem.cpp .
 The features in this programs are as following:
 1. Insertion of a new record
 2. Update of a data field in a record
