@@ -15,7 +15,7 @@ The features in this programs are as following:
 <p>If the data field is a text field, a condition can be 
 <ul>
   <li>a full text match (Example : Item name is exactly "HDMI Cable 1m"), or </li>
-  <li> a sub-string match (Example : Item name contains "Cable") </li> <ul></p>
+  <li> a sub-string match (Example : Item name contains "Cable") </li> </ul></p>
   <br>
 <p>If the data field is a numeric field, a condition can be
   <ul>
